@@ -5,5 +5,3 @@
 ### 完整說明請參考 https://omnixri.blogspot.com/2019/05/nvidia-jetson-nanoopencv410cuda.html
 
 ![](https://1.bp.blogspot.com/-zUzfVyz376I/XN5wQGFm8hI/AAAAAAAABNw/C0Mia38X8jUwOdNnSMhgFlwk4fpyMYnLQCLcBGAs/s1600/Nano_OpenCV_Cuda_07.png)
-
-[link](https://omnixri.blogspot.com/2019/05/nvidia-jetson-nanoopencv410cuda.html){:target="_blank"}
