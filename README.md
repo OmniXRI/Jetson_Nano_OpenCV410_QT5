@@ -1,3 +1,3 @@
-# Jetson_Nano_OpenCV410_QT5
-Inatall OpenCV 4.1.0 + QT 5 on Nvidia Jetson Nano
-待更新...
+如何讓Nvidia Jetson Nano能順利執行OpenCV4.1.0中CUDA相關函式
+
+完整說明請參考 https://omnixri.blogspot.com/2019/05/nvidia-jetson-nanoopencv410cuda.html
